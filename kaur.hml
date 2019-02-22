@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<head>
+  <title>priya</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/JETFf6K/simple-background-diamond-s-bw-4k_4nbqs5rmpe__F0000.png");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+	  color: blue;
+    }
+    input[type="submit"] {
+      background: blue;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <img src="https://www.funtober.com/wp-content/uploads/2016/11/dell.png"width="200"height="150">
+  <p>Hi! Plz Login!</p>
+  <input type="email" placeholder="Your email">
+  <input type="submit">
+</body>
